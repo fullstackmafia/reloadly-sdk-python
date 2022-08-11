@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+reloadly_airtime_package/reloadly_airtime/*.pyc
+reloadly_airtime_package/reloadly_airtime/airtime/*.pyc
+reloadly_auth_package/reloadly_auth/*.pyc
+reloadly_auth_package/reloadly_auth/authentication/*.pyc
+reloadly_core_package/reloadly_core/*.pyc
+reloadly_core_package/reloadly_core/core/*.pyc
+reloadly_giftcard_package/reloadly_giftcard/*.pyc
+reloadly_giftcard_package/reloadly_giftcard/giftcard/*.pyc
+reloadly_giftcard_package/reloadly_giftcard/sdk/operation/__pycache__
+reloadly_airtime_package/reloadly_airtime/airtime/sdk/operation/__pycache__
+
+# Distribution / packaging
+reloadly_airtime_package/reloadly_airtime.egg-info/
+reloadly_airtime_package/build/
+reloadly_airtime_package/dist/
+reloadly_auth_package/reloadly_auth.egg-info/
+reloadly_auth_package/build/
+reloadly_auth_package/dist/
+reloadly_core_package/reloadly_core.egg-info/
+reloadly_core_package/build/
+reloadly_core_package/dist/
+reloadly_giftcard_package/reloadly_giftcard.egg-info/
+reloadly_giftcard_package/build/
+reloadly_giftcard_package/dist/
+
+# Unit test / coverage reports
+.pytest_cache/
+reloadly_airtime_package/reloadly_airtime/.pytest_cache/
+reloadly_giftcard_package/reloadly_giftcard/.pytest_cache/
+.coverage
+.codecov.yml
+conftest.py
+
+# Environments
+.env
+demo/
+staging/
+
+# Editor files
+.vscode/*
+
+# Project files
+raw.py
+conftest.py
+
+.DS_Store

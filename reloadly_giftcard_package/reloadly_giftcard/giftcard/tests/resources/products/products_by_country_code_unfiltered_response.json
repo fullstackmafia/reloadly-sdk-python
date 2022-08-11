@@ -1,0 +1,3437 @@
+[
+    {
+        "productId": 4,
+        "productName": "Amazon Spain",
+        "global": false,
+        "senderFee": 285.0,
+        "discountPercentage": 0.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "EUR",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00,
+            25.00,
+            50.00,
+            100.00
+        ],
+        "fixedSenderDenominations": [
+            6472.50,
+            16181.25,
+            32362.50,
+            64725.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 6472.50,
+            "25.00": 16181.25,
+            "50.00": 32362.50,
+            "100.00": 64725.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/3a70931f-2823-4b2c-ab84-8e075134096d.jpg"
+        ],
+        "brand": {
+            "brandId": 2,
+            "brandName": "Amazon"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit www.amazon.com/redeem and enter the Claim Code when prompted.",
+            "verbose": "Amazon.com Gift Cards never expire and can be redeemed towards millions of items at www.amazon.com &#13;To redeem your gift card, follow these steps: &#13;1. Visit www.amazon.com/redeem &#13;2. Enter the Claim Code when prompted. &#13;3. Gift card funds will be applied automatically to eligible orders during the checkout process. &#13;4. You must pay for any remaining balance on your order with another payment method. &#13;Your gift card claim code may also be entered when prompted during checkout. To redeem your gift card using the Amazon.com service, first add the gift card funds to Your Account. If you have questions about redeeming your gift card, please visit www.amazon.com/gc-redeem"
+        }
+    },
+    {
+        "productId": 11,
+        "productName": "App Store & iTunes Spain",
+        "global": false,
+        "senderFee": 285.0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "EUR",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5.00,
+            10.00,
+            15.00,
+            25.00,
+            50.00,
+            100.00
+        ],
+        "fixedSenderDenominations": [
+            3236.25,
+            6472.50,
+            9708.75,
+            16181.25,
+            32362.50,
+            64725.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.00": 3236.25,
+            "10.00": 6472.50,
+            "15.00": 9708.75,
+            "25.00": 16181.25,
+            "50.00": 32362.50,
+            "100.00": 64725.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/efff4800-085b-463e-818b-64d22c599f8a.jpg"
+        ],
+        "brand": {
+            "brandId": 3,
+            "brandName": "App Store & iTunes"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to apple.com/redeem to add to your Apple Account balance.",
+            "verbose": "Use it for purchases at any Apple Store location, on the Apple Store-app, apple.com, the App Store, iTunes, Apple Music, Apple TV, Apple News, Apple Books, Apple Arcade, iCloud, and other Apple properties. &#13;Use the Apple Gift Card for App Store, iTunes, iPhone, iPad, Air-pods, Mac book, accessories, and more. &#13;No returns or refunds on Apple Gift Cards. Terms apply. &#13;The Apple Gift Card can be used two ways: &#13;For online purchases, go to apple.com/redeem to add to your Apple Account balance. &#13;Bring this email to any Apple Store location. &#13;Beware of gift card scams. Do not share your code. Terms & Conditions Valid only for U.S. transactions in Apple properties. For assistance, visit support.apple.com/giftcard or call 1-800-275-2273. Not redeemable at Apple resellers or for cash, and no resale, refunds, or exchanges, except as required by law. Apple is not responsible for unauthorized use. Terms apply"
+        }
+    },
+    {
+        "productId": 142,
+        "productName": "CALL OF DUTY: MODERN WARFARE® STANDARD EDITION",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/aa0ed81e-8c74-4b44-b2fd-7c84a6b774d5.jpg"
+        ],
+        "brand": {
+            "brandId": 6,
+            "brandName": "CALL OF DUTY: MODERN WARFARE"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code.",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED You must accept the Microsoft Services Agreement (microsoft.com/msa). Game may require online updates. Features and online services may vary by country and change or be retired over time. Game contains in-app purchases. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 292,
+        "productName": "1,100 CALL OF DUTY: MODERN WARFARE POINTS",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            9.99
+        ],
+        "fixedSenderDenominations": [
+            5694.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "9.99": 5694.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c332e6fd-ce42-41ac-9af0-125cd7341d51.jpg"
+        ],
+        "brand": {
+            "brandId": 6,
+            "brandName": "CALL OF DUTY: MODERN WARFARE"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code.",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED You must accept the Microsoft Services Agreement (microsoft.com/msa). Game may require online updates. Features and online services may vary by country and change or be retired over time. Game contains in-app purchases. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 442,
+        "productName": "2,400 CALL OF DUTY: MODERN WARFARE POINTS",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/196fb503-1771-4a17-aa3d-88e46f93aeb4.jpg"
+        ],
+        "brand": {
+            "brandId": 6,
+            "brandName": "CALL OF DUTY: MODERN WARFARE"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code.",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED You must accept the Microsoft Services Agreement (microsoft.com/msa). Game may require online updates. Features and online services may vary by country and change or be retired over time. Game contains in-app purchases. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 595,
+        "productName": "crunchyroll",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 7.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00,
+            15.00,
+            25.00,
+            50.00,
+            100.00
+        ],
+        "fixedSenderDenominations": [
+            5700.00,
+            8550.00,
+            14250.00,
+            28500.00,
+            57000.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 5700.00,
+            "15.00": 8550.00,
+            "25.00": 14250.00,
+            "50.00": 28500.00,
+            "100.00": 57000.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/d5db5202-1773-4355-a1a3-d734783db955.jpg"
+        ],
+        "brand": {
+            "brandId": 10,
+            "brandName": "crunchyroll"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit vrv.co/redeem and enter your PIN to redeem your Gift Card.",
+            "verbose": "Visit vrv.co/redeem and enter your PIN to redeem your Gift Card. &#13;Valid towards VRV service in the US only. The entire value shall be credited to your VRV account upon redemption. &#13;Nonrefundable or redeemable for cash,except where required by law. This card does not expire and may not be resold. Ellation is not responsible for lost or stolen cards or unauthorized use. &#13;See http://www.vrv.co for full terms."
+        }
+    },
+    {
+        "productId": 746,
+        "productName": "DRAGON BALL Z",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/9d24be5a-2546-4e63-b81a-ec835471375e.jpg"
+        ],
+        "brand": {
+            "brandId": 12,
+            "brandName": "DRAGON BALL Z"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa). Game may require online updates. Features and online services may vary by country and change or be retired over time. Except as required bylaw, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 896,
+        "productName": "EA 12 month (Xbox)",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 14.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/857f746a-34ac-43ad-b0a6-e85f976a9e64.jpg"
+        ],
+        "brand": {
+            "brandId": 13,
+            "brandName": "EA Access"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to https://microsoft.com/redeem",
+            "verbose": "NO EXPIRATION DATE AND NO SERVICE FEE &#13;REDEEM CODE: &#13;1. Go to https://microsoft.com/redeem &#13;2. Enter your code &#13;3. Start shopping &#13;To create a new Microsoft account or read the full conditions (which can change without prior notice), go to https://microsoft.com/cardterms (Code cannot be replaced - please keep in a safe place) &#13;CONDITIONS, LIMITATIONS AND EXCLUSIONS APPLY. SEE https://tos.ea.com/legalapp/eaplay/US/en/PC/ AND ea.com/ea-play FOR DETAILS. &#13;EA ACCOUNT REQUIRED TO JOIN AND PLAY;"
+        }
+    },
+    {
+        "productId": 1046,
+        "productName": "EA 12 month (PlayStation)",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 14.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/2b66573d-b9e2-43ca-8223-d60be47557af.jpg"
+        ],
+        "brand": {
+            "brandId": 13,
+            "brandName": "EA Access"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to https://microsoft.com/redeem",
+            "verbose": "NO EXPIRATION DATE AND NO SERVICE FEE &#13;REDEEM CODE: &#13;1. Go to https://microsoft.com/redeem &#13;2. Enter your code &#13;3. Start shopping &#13;To create a new Microsoft account or read the full conditions (which can change without prior notice), go to https://microsoft.com/cardterms (Code cannot be replaced - please keep in a safe place) &#13;CONDITIONS, LIMITATIONS AND EXCLUSIONS APPLY. SEE https://tos.ea.com/legalapp/eaplay/US/en/PC/ AND ea.com/ea-play FOR DETAILS. &#13;EA ACCOUNT REQUIRED TO JOIN AND PLAY;"
+        }
+    },
+    {
+        "productId": 1196,
+        "productName": "EA Apex",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 9.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            20.00
+        ],
+        "fixedSenderDenominations": [
+            11400.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "20.00": 11400.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/5fdf185a-4857-4bd1-a79c-1eaceb66f2ff.jpg"
+        ],
+        "brand": {
+            "brandId": 14,
+            "brandName": "EA Apex"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM THIS CASH CARD, GO TO http://www.origin.com/redeem",
+            "verbose": "TO REDEEM THIS CASH CARD, GO TO http://www.origin.com/redeem AND FOLLOW THE INSTRUCTIONS. &#13;Use of this Card constitutes acceptance of the following terms: &#13;1. This EA prepaid card is issued by Electronic Arts Inc. and is valid in the U.S. You must be a U.S. resident to use this prepaid card. &#13;2. This EA prepaid card is redeemable at http://www.origin.com/redeem or other EA online cash card enabled stores. &#13;3. EA account, registration of an EA wallet and acceptance of the EA wallet and cash terms and conditions (http://www.ea.com/ea-card-terms-and-conditions) is required. &#13;4.To open an EA account, you must be at least 13 years of age and accept EA&#39;s User Agreement and Privacy and Cookie Policy."
+        }
+    },
+    {
+        "productId": 2399,
+        "productName": "FIFA 21 Microsoft Xbox",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/8c9c0283-1ea2-4bf0-8571-0ba5e2f5b648.jpg"
+        ],
+        "brand": {
+            "brandId": 17,
+            "brandName": "FIFA 21 Xbox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.microsoft.com/redeem.",
+            "verbose": "To redeem, go to http://www.microsoft.com/redeem. &#13;Features and online services may vary by region and change or be retired over time. May contain in-game purchases. Requires a Microsoft Account. Except as required by law, codes are non-refundable."
+        }
+    },
+    {
+        "productId": 2549,
+        "productName": "FIFA 2200 POINTS Xbox",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c86f254c-2ce9-4ba4-bfb3-9008612befa1.jpg"
+        ],
+        "brand": {
+            "brandId": 17,
+            "brandName": "FIFA 21 Xbox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.microsoft.com/redeem.",
+            "verbose": "To redeem, go to http://www.microsoft.com/redeem. &#13;Features and online services may vary by region and change or be retired over time. May contain in-game purchases. Requires a Microsoft Account. Except as required by law, codes are non-refundable."
+        }
+    },
+    {
+        "productId": 2699,
+        "productName": "PC Final Fantasy XIV 60 Days",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 12.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/9d39af32-4925-4bc5-8433-f686f2752078.jpg"
+        ],
+        "brand": {
+            "brandId": 18,
+            "brandName": "PC Final Fantasy XIV 60 Days"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Log in to your FINAL FANTASY account. Click on Account Services -> Renew Subscription. Enter the code you received and follow the instructions",
+            "verbose": "This 60 day digital Game Time Code is only valid with North American Square Enix Accounts. Please double check the region of your Square Enix Account before purchasing. &#13;You will only be able to use this 60 day code if you have purchased Final Fantasy XIV and currently have an existing FFXIV account. You can now exchange your code and start exploring the online world of Final Fantasy. Redeeming your FFXIV Time Card can be done like this: &#13;Log in to your FINAL FANTASY XIV: Mog Station account &#13;Click on &#39;Account Services&#39; in the top left corner of your screen &#13;After that, click on &#39;Renew Subscription (Game Card)&#39;  &#13;Enter the code you received per email and follow the instructions on your screen to complete the activation."
+        }
+    },
+    {
+        "productId": 2850,
+        "productName": "Fortnite The Last Laugh Bundle PS4",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 23.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            39.99
+        ],
+        "fixedSenderDenominations": [
+            22794.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "39.99": 22794.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/452f379d-37b7-49f0-9901-03ecca39dd18.jpg"
+        ],
+        "brand": {
+            "brandId": 20,
+            "brandName": "Fortnite The Last Laugh Bundle"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard",
+            "verbose": "Redeem a gift card for V-Bucks to use in Fortnite on any supported device! If you are unable to redeem a V-Bucks card and/or access V-Bucks in Fortnite, please contact Epic&&#39;s customer service for assistance at epic games.com/customer-service. &#13;To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard &#13;An Epic Games account is required to redeem a V-Bucks Card code. After entering your code on Fortnite.com/vbuckscard, select the platform where you would like the V-Bucks applied. If playing on a console platform (PlayStation Network, Xbox Live, Nintendo Switch) you need to link your Epic Games account to that gaming platform (one time) to redeem your gift card code. The 16 digit code on the back of the card WILL NOT work if redeemed directly through your gaming platform (PlayStation Network, Xbox Live, Nintendo Switch, etc.)"
+        }
+    },
+    {
+        "productId": 3000,
+        "productName": "Fortnite The Last Laugh Bundle Xbox",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 23.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            39.99
+        ],
+        "fixedSenderDenominations": [
+            22794.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "39.99": 22794.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c940964b-0e6d-4243-8439-a9897dd0dd9d.jpg"
+        ],
+        "brand": {
+            "brandId": 20,
+            "brandName": "Fortnite The Last Laugh Bundle"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard",
+            "verbose": "Redeem a gift card for V-Bucks to use in Fortnite on any supported device! If you are unable to redeem a V-Bucks card and/or access V-Bucks in Fortnite, please contact Epic&&#39;s customer service for assistance at epic games.com/customer-service. &#13;To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard &#13;An Epic Games account is required to redeem a V-Bucks Card code. After entering your code on Fortnite.com/vbuckscard, select the platform where you would like the V-Bucks applied. If playing on a console platform (PlayStation Network, Xbox Live, Nintendo Switch) you need to link your Epic Games account to that gaming platform (one time) to redeem your gift card code. The 16 digit code on the back of the card WILL NOT work if redeemed directly through your gaming platform (PlayStation Network, Xbox Live, Nintendo Switch, etc.)"
+        }
+    },
+    {
+        "productId": 3151,
+        "productName": "Free Fire 100 + 10 Diamond",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            1.00
+        ],
+        "fixedSenderDenominations": [
+            570.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "1.00": 570.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3301,
+        "productName": "Free Fire 210 + 21 Diamond",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2.00
+        ],
+        "fixedSenderDenominations": [
+            1140.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.00": 1140.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3451,
+        "productName": "Free Fire 530 + 53 Diamond",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5.00
+        ],
+        "fixedSenderDenominations": [
+            2850.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.00": 2850.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3601,
+        "productName": "Free Fire 1080 + 108 Diamond",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00
+        ],
+        "fixedSenderDenominations": [
+            5700.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 5700.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3751,
+        "productName": "Free Fire 2200 + 220 Diamond",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            20.00
+        ],
+        "fixedSenderDenominations": [
+            11400.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "20.00": 11400.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3901,
+        "productName": "GameStop",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 4.75,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5.00,
+            10.00,
+            25.00,
+            50.00,
+            100.00,
+            300.00,
+            500.00
+        ],
+        "fixedSenderDenominations": [
+            2850.00,
+            5700.00,
+            14250.00,
+            28500.00,
+            57000.00,
+            171000.00,
+            285000.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.00": 2850.00,
+            "10.00": 5700.00,
+            "25.00": 14250.00,
+            "50.00": 28500.00,
+            "100.00": 57000.00,
+            "300.00": 171000.00,
+            "500.00": 285000.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/22ca34e9-8e3a-4e9c-a286-ebdbfedd5502.jpg"
+        ],
+        "brand": {
+            "brandId": 23,
+            "brandName": "GameStop"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "This gift card is redeemable online at GameStop.com.",
+            "verbose": "Online Redemption Instructions Shop at GameStop.com online. &#13;This gift card is redeemable only for the purchase of merchandise only in the U.S. at GameStop, Think Geek, EB Games, Babbage&#39;s, and Planet X stores and online at GameStop.com. Card does not expire or impose any fees. Except where required by law, it may not be returned, redeemed for cash, or applied as payment on any account, and will not be replaced if lost or stolen. Not responsible for unauthorized use. This card is not a credit card or a debit card and carries no warranties, express or implied. This card is issued by and represents solely the obligation of Marketing Control Services, Inc. (a Virginia corporation), which reserves the right to change these terms and conditions at any time. Use or acceptance of this card constitutes acceptance of these terms and conditions. To obtain your card balance, visit www.gamestop.com. Purchases of gift cards never count towards promotional totals (e.g. $10 off of$30). In order to take advantage of those promotions, customers must buy merchandise. Purchases of gift cards do not accrue Power Up Rewards Points."
+        }
+    },
+    {
+        "productId": 4058,
+        "productName": "GTA ONLINE: WHALE SHARK CASH CARD",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            49.99
+        ],
+        "fixedSenderDenominations": [
+            28494.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "49.99": 28494.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/adc39d35-fc9f-4506-9bd2-388952bfdc44.jpg"
+        ],
+        "brand": {
+            "brandId": 27,
+            "brandName": "GTA ONLINE"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit http://www.microsoft.com/redeem",
+            "verbose": "To redeem, visit http://www.microsoft.com/redeem &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software you agree to the Microsoft Services Agreement(microsoft.com/msa) and www.rockstargames.com/support &#13;Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable except as restricted by local law. Requires Grand Theft Auto V (sold separately)."
+        }
+    },
+    {
+        "productId": 4208,
+        "productName": "GTA ONLINE: GREAT WHITE SHARK CASH CARD",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/1c7398e9-ed64-4ac5-ab17-c92d30ad73b5.jpg"
+        ],
+        "brand": {
+            "brandId": 27,
+            "brandName": "GTA ONLINE"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit http://www.microsoft.com/redeem",
+            "verbose": "To redeem, visit http://www.microsoft.com/redeem &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software you agree to the Microsoft Services Agreement(microsoft.com/msa) and www.rockstargames.com/support &#13;Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable except as restricted by local law. Requires Grand Theft Auto V (sold separately)."
+        }
+    },
+    {
+        "productId": 4358,
+        "productName": "GTA ONLINE: MEGALODON CASH CARD",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            99.99
+        ],
+        "fixedSenderDenominations": [
+            56994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "99.99": 56994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/ec9e15cd-72dc-4ce8-a48a-4f6d77a224e3.jpg"
+        ],
+        "brand": {
+            "brandId": 27,
+            "brandName": "GTA ONLINE"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit http://www.microsoft.com/redeem",
+            "verbose": "To redeem, visit http://www.microsoft.com/redeem &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software you agree to the Microsoft Services Agreement(microsoft.com/msa) and www.rockstargames.com/support &#13;Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable except as restricted by local law. Requires Grand Theft Auto V (sold separately)."
+        }
+    },
+    {
+        "productId": 4510,
+        "productName": "IMVU",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00,
+            25.00,
+            50.00
+        ],
+        "fixedSenderDenominations": [
+            5700.00,
+            14250.00,
+            28500.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 5700.00,
+            "25.00": 14250.00,
+            "50.00": 28500.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/bcf26701-102e-417e-83ed-d9a3028945c2.jpg"
+        ],
+        "brand": {
+            "brandId": 29,
+            "brandName": "IMVU"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.imvu.com/prepaid",
+            "verbose": "To Redeem: &#13;1. Login to your existing account or create a new one at http://www.imvu.com &#13;2. Go to http://www.imvu.com/prepaid &#13;3. Enter the PIN exactly as shown &#13;4. Click on &#39;Redeem Now&#39; &#13;5. Follow the prompts &#13;6. For any questions, you can reach IMVU Customer Support at (650) 321-8334 for international users and (866) 761-0975 for US. &#13;This digital code is valid for the purchase of IMVU credits or VIP membership only. To redeem this digital code you must have a valid IMVU avatar account and be 13years of age or older. No refunds or exchanges allowed. Risk of loss and title for digital card passes to purchaser on transfer. IMVU is not responsible for any loss or damage resulting from lost or stolen codes or use without permission. Use of this code constitutes acceptance of full terms and conditions found at http://www.imvu.com/prepaidcardterms"
+        }
+    },
+    {
+        "productId": 4660,
+        "productName": "Jagex Runescape eCodes",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 7.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00,
+            25.00
+        ],
+        "fixedSenderDenominations": [
+            5700.00,
+            14250.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 5700.00,
+            "25.00": 14250.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/d28938de-5cd8-482a-8be6-1aede80a77e1.jpg"
+        ],
+        "brand": {
+            "brandId": 30,
+            "brandName": "Jagex Runescape eCodes"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.runescape.com/store_locator.ws",
+            "verbose": "To purchase subscriptions and/or in-game items using the RuneScape Card: &#13;1. Go to http://www.runescape.com/store_locator.ws &#13;2. Click &#39;Activate Card&#39; &#13;3. Log in when prompted &#13;4.Enter in your Digital PIN code &#13;5.Select which RuneScape package you want &#13;6.Start Playing! &#13;This prepaid RuneScape PIN may be redeemed only through the website at www.runescape.com and only by US residents. The PIN allows you to purchase subscription and/or in-game items for RuneScape to the value of the PIN purchased on the date the PIN code is redeemed (subject to network and server availability) and is valid as long as Jagex continues to offer RuneScape. The value of subscriptions and in-game items for RuneScape may change over time. Certain RuneScape features are available only if you are over a certain age. &#13;The full value of this PIN is deducted when you redeem the PIN code. No incremental deductions are allowed. You are responsible for loss or unauthorized use of this PIN. Please keep it in a secure location and do not share the PIN code with anyone. Except as required by law, the value of this PIN will not be redeemed for cash or cash equivalents, has no surrender value, may not be returned and will not be replaced or refunded if lost, stolen, destroyed or used without permission. The card is void where prohibited or restricted by law."
+        }
+    },
+    {
+        "productId": 4812,
+        "productName": "Kigso 50 game credit",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            15.00
+        ],
+        "fixedSenderDenominations": [
+            8550.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "15.00": 8550.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/0ec260cf-75d6-4e9c-82e7-b31b41f952a3.jpg"
+        ],
+        "brand": {
+            "brandId": 32,
+            "brandName": "Kigso 50 game credit"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit https://www.kigso.com/redeem to redeem your code.",
+            "verbose": "Visit https://www.kigso.com/redeem to redeem your code. &#13;Internet connection required (data charges from your carrier may apply). &#13;We recommend the latest version of your operating system and an up to date browser. Minimum iOS9 for iOS users, 4.4.3 for Android users. Google Chrome Browser is recommended. &#13;Redeeming this card, as well as using Kigso.com services, is subject to terms and conditions at www.kigso.com/terms and privacy policy at http://www.kigso.com/privacy"
+        }
+    },
+    {
+        "productId": 4962,
+        "productName": "RIOT ACCESS Latam America",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 3.75,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5.00,
+            10.00,
+            15.00,
+            25.00,
+            50.00,
+            80.00
+        ],
+        "fixedSenderDenominations": [
+            2850.00,
+            5700.00,
+            8550.00,
+            14250.00,
+            28500.00,
+            45600.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.00": 2850.00,
+            "10.00": 5700.00,
+            "15.00": 8550.00,
+            "25.00": 14250.00,
+            "50.00": 28500.00,
+            "80.00": 45600.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/591c6b9c-17a2-4bec-aad6-1ee85df3c9ad.jpg"
+        ],
+        "brand": {
+            "brandId": 33,
+            "brandName": "RIOT ACCESS Latam America"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Launch the League of Legends client. Click on Store -> Purchase RP -> Prepaid Cards & Riot Pin and enter your code.",
+            "verbose": "1. Launch the League of Legends client or go to signup.na.leagueoflegends.com to create an account. &#13;2. Click on the Store button. &#13;3. Click on the Purchase RP button. &#13;4. Select Prepaid Cards & Riot Pin and enter your code. &#13;5. Click Submit. &#13;We may (and probably will) create updated versions of theseTerms in the future as the Riot Services and applicable laws evolve. When we do, we&#39;ll inform you of the new agreement which will supersede and replace these Terms. You&#39;ll be given an opportunity to review any new agreement we present to you and decide whether you wish to agree to the revised terms. If you accept the new agreement, you&#39;ll be able to continue using the Riot Services. If you decline the new agreement, you won&#39;t be able to use the Riot Services anymore."
+        }
+    },
+    {
+        "productId": 5113,
+        "productName": "MADDEN NFL 20 Microsoft Xbox One",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 21.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/6f8ae07e-a7ee-495a-a21c-92ab00156b7a.jpg"
+        ],
+        "brand": {
+            "brandId": 35,
+            "brandName": "MADDEN NFL"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software, you agree to the Microsoft Services Agreement(microsoft.com/msa). Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable excepts restricted by local law."
+        }
+    },
+    {
+        "productId": 5263,
+        "productName": "MADDEN NFL 20 ULTIMATE TEAM 2200 POINTS",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/ed5cd411-5a62-4d50-9535-07007fd5ce0d.jpg"
+        ],
+        "brand": {
+            "brandId": 35,
+            "brandName": "MADDEN NFL"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software, you agree to the Microsoft Services Agreement(microsoft.com/msa). Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable excepts restricted by local law."
+        }
+    },
+    {
+        "productId": 5413,
+        "productName": "MADDEN NFL 21 Microsoft Xbox One",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/0e622ef8-0a6f-43c2-8384-88344092ef78.jpg"
+        ],
+        "brand": {
+            "brandId": 35,
+            "brandName": "MADDEN NFL"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software, you agree to the Microsoft Services Agreement(microsoft.com/msa). Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable excepts restricted by local law."
+        }
+    },
+    {
+        "productId": 5563,
+        "productName": "MADDEN NFL 21 - 2200 MADDEN POINTS Xbox One",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/461ae350-801c-442d-be53-a2ed42d018e4.jpg"
+        ],
+        "brand": {
+            "brandId": 35,
+            "brandName": "MADDEN NFL"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;By downloading this software, you agree to the Microsoft Services Agreement(microsoft.com/msa). Download code valid for one-time use only. Requires broadband (ISP fees apply). Code is nonrefundable excepts restricted by local law."
+        }
+    },
+    {
+        "productId": 5713,
+        "productName": "Office Home & Student 2019",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            149.99
+        ],
+        "fixedSenderDenominations": [
+            85494.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "149.99": 85494.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/b96f6301-6958-4dee-b078-90a5ee8d1c26.jpg"
+        ],
+        "brand": {
+            "brandId": 36,
+            "brandName": "Microsoft 365 & Office"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Sign in to redeem.microsoft.com with your Microsoft account and enter the 25-character code",
+            "verbose": "The easiest way to redeem a gift card or code is online. Sign in to redeem.microsoft.com with your Microsoft account, enter the 25-character code, and then select Next."
+        }
+    },
+    {
+        "productId": 5863,
+        "productName": "Office Home & Business 2019",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            249.99
+        ],
+        "fixedSenderDenominations": [
+            142494.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "249.99": 142494.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/b96f6301-6958-4dee-b078-90a5ee8d1c26.jpg"
+        ],
+        "brand": {
+            "brandId": 36,
+            "brandName": "Microsoft 365 & Office"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Sign in to redeem.microsoft.com with your Microsoft account and enter the 25-character code",
+            "verbose": "The easiest way to redeem a gift card or code is online. Sign in to redeem.microsoft.com with your Microsoft account, enter the 25-character code, and then select Next."
+        }
+    },
+    {
+        "productId": 6013,
+        "productName": "Microsoft 365 Personal",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 14.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            69.99
+        ],
+        "fixedSenderDenominations": [
+            39894.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "69.99": 39894.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c739c292-76ec-40f9-81ec-6071f9b631f5.jpg"
+        ],
+        "brand": {
+            "brandId": 36,
+            "brandName": "Microsoft 365 & Office"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Sign in to redeem.microsoft.com with your Microsoft account and enter the 25-character code",
+            "verbose": "The easiest way to redeem a gift card or code is online. Sign in to redeem.microsoft.com with your Microsoft account, enter the 25-character code, and then select Next."
+        }
+    },
+    {
+        "productId": 6163,
+        "productName": "Microsoft 365 Family",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 12.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            99.99
+        ],
+        "fixedSenderDenominations": [
+            56994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "99.99": 56994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/39ecb099-e156-4688-9703-f483f73b3517.jpg"
+        ],
+        "brand": {
+            "brandId": 36,
+            "brandName": "Microsoft 365 & Office"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Sign in to redeem.microsoft.com with your Microsoft account and enter the 25-character code",
+            "verbose": "The easiest way to redeem a gift card or code is online. Sign in to redeem.microsoft.com with your Microsoft account, enter the 25-character code, and then select Next."
+        }
+    },
+    {
+        "productId": 6313,
+        "productName": "Microsoft 365 Business Standard",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            149.99
+        ],
+        "fixedSenderDenominations": [
+            85494.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "149.99": 85494.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/78a67e24-6746-4b23-b6b2-2a6047cf0db2.jpg"
+        ],
+        "brand": {
+            "brandId": 36,
+            "brandName": "Microsoft 365 & Office"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Sign in to redeem.microsoft.com with your Microsoft account and enter the 25-character code",
+            "verbose": "The easiest way to redeem a gift card or code is online. Sign in to redeem.microsoft.com with your Microsoft account, enter the 25-character code, and then select Next."
+        }
+    },
+    {
+        "productId": 6463,
+        "productName": "Minecraft Minecoin Pack 1720 Coins",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            9.99
+        ],
+        "fixedSenderDenominations": [
+            5694.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "9.99": 5694.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/8d565164-74ce-476e-8026-9da7df2f12a7.jpg"
+        ],
+        "brand": {
+            "brandId": 37,
+            "brandName": "Minecraft"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.minecraft.net/en-us/redeem/minecoins",
+            "verbose": "MINECOINS REQUIRE A VERSION OF MINECRAFT WITH MINECRAFT MARKETPLACE. &#13;UPDATES MAY BE REQUIRED. MINECRAFT.NET/REDEEM COINS &#13;To redeem code go to https://www.minecraft.net/en-us/redeem/minecoins &#13;Once redeemed to your Xbox Live account, the full code value will be applied and may be used for eligible purchases (exclusions apply) made directly at the Minecraft Market place. &#13;NO CREDIT CARD REQUIRED, NO EXPIRATION &#13;Except as required by law, codes cannot be redeemed or exchanged for cash and are not refundable."
+        }
+    },
+    {
+        "productId": 6613,
+        "productName": "Minecraft Minecoin Pack 3500 Coins",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/334ab2bb-87f0-41f6-aab6-aadf40d6b3aa.jpg"
+        ],
+        "brand": {
+            "brandId": 37,
+            "brandName": "Minecraft"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.minecraft.net/en-us/redeem/minecoins",
+            "verbose": "MINECOINS REQUIRE A VERSION OF MINECRAFT WITH MINECRAFT MARKETPLACE. &#13;UPDATES MAY BE REQUIRED. MINECRAFT.NET/REDEEM COINS &#13;To redeem code go to https://www.minecraft.net/en-us/redeem/minecoins &#13;Once redeemed to your Xbox Live account, the full code value will be applied and may be used for eligible purchases (exclusions apply) made directly at the Minecraft Market place. &#13;NO CREDIT CARD REQUIRED, NO EXPIRATION &#13;Except as required by law, codes cannot be redeemed or exchanged for cash and are not refundable."
+        }
+    },
+    {
+        "productId": 6763,
+        "productName": "Minecraft",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            26.95
+        ],
+        "fixedSenderDenominations": [
+            15361.50
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "26.95": 15361.50
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/e1befb49-d765-47c0-b29a-f75601a99da5.jpg"
+        ],
+        "brand": {
+            "brandId": 37,
+            "brandName": "Minecraft"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.minecraft.net/en-us/redeem/minecoins",
+            "verbose": "MINECOINS REQUIRE A VERSION OF MINECRAFT WITH MINECRAFT MARKETPLACE. &#13;UPDATES MAY BE REQUIRED. MINECRAFT.NET/REDEEM COINS &#13;To redeem code go to https://www.minecraft.net/en-us/redeem/minecoins &#13;Once redeemed to your Xbox Live account, the full code value will be applied and may be used for eligible purchases (exclusions apply) made directly at the Minecraft Market place. &#13;NO CREDIT CARD REQUIRED, NO EXPIRATION &#13;Except as required by law, codes cannot be redeemed or exchanged for cash and are not refundable."
+        }
+    },
+    {
+        "productId": 6922,
+        "productName": "Mortal Kombat 11 - Nintendo Switch",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 17.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/63d910be-d023-42df-ba5a-136fc8e5d32a.jpg"
+        ],
+        "brand": {
+            "brandId": 39,
+            "brandName": "Mortal Kombat"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit https://mortalkombatgamessupport.wbgames.com/hc/en-us/articles/360022109653",
+            "verbose": "To redeem, visit https://mortalkombatgamessupport.wbgames.com/hc/en-us/articles/360022109653 for full details"
+        }
+    },
+    {
+        "productId": 7072,
+        "productName": "NBA 2K20 Microsoft Xbox One",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 21.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/a7ea99d8-d2ea-4465-bcd5-47ec82ae679f.jpg"
+        ],
+        "brand": {
+            "brandId": 40,
+            "brandName": "NBA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa) and Take-Two Interactive Software license terms (www.take2games.com/eula and www.take2games.com/legal). Game may require online updates. &#13;Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 7222,
+        "productName": "NBA 2K20 35,000 VC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            9.99
+        ],
+        "fixedSenderDenominations": [
+            5694.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "9.99": 5694.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/b69c0b20-0801-4e83-a36a-47d62c9cdbcd.jpg"
+        ],
+        "brand": {
+            "brandId": 40,
+            "brandName": "NBA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa) and Take-Two Interactive Software license terms (www.take2games.com/eula and www.take2games.com/legal). Game may require online updates. &#13;Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 7372,
+        "productName": "NBA 2K20 75,000 VC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/facefcb5-3075-41a0-bdb6-a84a36658371.jpg"
+        ],
+        "brand": {
+            "brandId": 40,
+            "brandName": "NBA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa) and Take-Two Interactive Software license terms (www.take2games.com/eula and www.take2games.com/legal). Game may require online updates. &#13;Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 7522,
+        "productName": "NBA 2K20 200,000 VC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            49.99
+        ],
+        "fixedSenderDenominations": [
+            28494.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "49.99": 28494.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/ae360418-9f12-417f-b1c4-46c87c0bac89.jpg"
+        ],
+        "brand": {
+            "brandId": 40,
+            "brandName": "NBA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa) and Take-Two Interactive Software license terms (www.take2games.com/eula and www.take2games.com/legal). Game may require online updates. &#13;Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 7672,
+        "productName": "NBA 2K21 Microsoft Xbox One",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 6.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/1609c1b7-a855-47a4-9c97-249caabbea11.jpg"
+        ],
+        "brand": {
+            "brandId": 40,
+            "brandName": "NBA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa) and Take-Two Interactive Software license terms (www.take2games.com/eula and www.take2games.com/legal). Game may require online updates. &#13;Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 7822,
+        "productName": "NBA 2K21 75,000 VC Xbox Series X & Xbox One",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/eecddba6-5dcc-4ee8-a68f-3357e38a10a4.jpg"
+        ],
+        "brand": {
+            "brandId": 40,
+            "brandName": "NBA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem",
+            "verbose": "TO REDEEM CODE ONLINE: Go to microsoft.com/redeem (Microsoft or Xbox Live account required) and enter the 25-digit code. Download and play. &#13;NO CREDIT CARD REQUIRED &#13;You must accept the Microsoft Services Agreement (microsoft.com/msa) and Take-Two Interactive Software license terms (www.take2games.com/eula and www.take2games.com/legal). Game may require online updates. &#13;Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 7975,
+        "productName": "Nintendo Membership 3 Month",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 6.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            7.99
+        ],
+        "fixedSenderDenominations": [
+            4554.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "7.99": 4554.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/5f574207-fe49-40a2-b393-c97dd6d2d4fe.jpg"
+        ],
+        "brand": {
+            "brandId": 42,
+            "brandName": "Nintendo"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit nintendo.com/giftcards.",
+            "verbose": "Nintendo eShop Digital Cards are redeemable only through the Nintendo eShop on the Nintendo Switch, Wii U, and Nintendo 3DS family of systems. Digital Card balances can be shared across Nintendo Switch, Wii U and Nintendo 3DS family of systems, but may only be used on a single Nintendo eShop account. To learn more about the Nintendo eShop, visit nintendo.com/giftcards. &#13;Detailed instructions for redeeming by device: &#13;&#13;Nintendo Switch/ Nintendo Switch Lite &#13;1. If you haven&#39;t already, set up an internet connection on your Nintendo Switch system. &#13;2. Make sure your Nintendo Switch system has the latest system update. &#13;3. From the Nintendo Switch HOME Menu, select the Nintendo eShop icon. &#13;4. Select &#39;Enter Code&#39; &#13;5. Enter your download code and click &#39;OK&#39; &#13;Your total balance cannot exceed $200 &#13;&#13;Nintendo 3DS family of systems &#13;1. If you haven&#39;t already, set up an Internet connection to your system and make sure your device has the latest system update. &#13;2. From the HOME Menu, select the Nintendo eShop icon. &#13;3. Scroll left and select &#39;Add Funds&#39; &#13;4. Select &#39;Redeem a Nintendo eShop Card.&#39;5. Tap the box that says, &#39;Enter the activation code&#39;. &#13;6. Use the touch screen to enter the activation code from the Digital Card and tap &#39;OK&#39;. &#13;7.Tap &#39;OK&#39; again. &#13;&#13;Wii U &#13;1. If you haven&#39;t already, set up an Internet connection to your system and make sure your device has the latest system update. &#13;2. From the HOME Menu, select the Nintendo eShop icon. &#13;3. Select &#39;Balance&#39; from the menu on the left side of the screen. &#13;4. Tap button that says &#39;Nintendo eShop Card&#39; &#13;5. Tap the box that says, &#39;Enter the code&#39; &#13;6. Use the touch screen to enter the activation code from the Digital Card and tap &#39;OK&#39; 7. Select &#39;Add&#39;"
+        }
+    },
+    {
+        "productId": 8125,
+        "productName": "Nintendo Membership 12 Month",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.95,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            19.99
+        ],
+        "fixedSenderDenominations": [
+            11394.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "19.99": 11394.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/5f574207-fe49-40a2-b393-c97dd6d2d4fe.jpg"
+        ],
+        "brand": {
+            "brandId": 42,
+            "brandName": "Nintendo"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit nintendo.com/giftcards.",
+            "verbose": "Nintendo eShop Digital Cards are redeemable only through the Nintendo eShop on the Nintendo Switch, Wii U, and Nintendo 3DS family of systems. Digital Card balances can be shared across Nintendo Switch, Wii U and Nintendo 3DS family of systems, but may only be used on a single Nintendo eShop account. To learn more about the Nintendo eShop, visit nintendo.com/giftcards. &#13;Detailed instructions for redeeming by device: &#13;&#13;Nintendo Switch/ Nintendo Switch Lite &#13;1. If you haven&#39;t already, set up an internet connection on your Nintendo Switch system. &#13;2. Make sure your Nintendo Switch system has the latest system update. &#13;3. From the Nintendo Switch HOME Menu, select the Nintendo eShop icon. &#13;4. Select &#39;Enter Code&#39; &#13;5. Enter your download code and click &#39;OK&#39; &#13;Your total balance cannot exceed $200 &#13;&#13;Nintendo 3DS family of systems &#13;1. If you haven&#39;t already, set up an Internet connection to your system and make sure your device has the latest system update. &#13;2. From the HOME Menu, select the Nintendo eShop icon. &#13;3. Scroll left and select &#39;Add Funds&#39; &#13;4. Select &#39;Redeem a Nintendo eShop Card.&#39;5. Tap the box that says, &#39;Enter the activation code&#39;. &#13;6. Use the touch screen to enter the activation code from the Digital Card and tap &#39;OK&#39;. &#13;7.Tap &#39;OK&#39; again. &#13;&#13;Wii U &#13;1. If you haven&#39;t already, set up an Internet connection to your system and make sure your device has the latest system update. &#13;2. From the HOME Menu, select the Nintendo eShop icon. &#13;3. Select &#39;Balance&#39; from the menu on the left side of the screen. &#13;4. Tap button that says &#39;Nintendo eShop Card&#39; &#13;5. Tap the box that says, &#39;Enter the code&#39; &#13;6. Use the touch screen to enter the activation code from the Digital Card and tap &#39;OK&#39; 7. Select &#39;Add&#39;"
+        }
+    },
+    {
+        "productId": 8278,
+        "productName": "Obucks",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 5.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            1.00,
+            5.00,
+            6.50,
+            10.00,
+            13.00,
+            15.00,
+            20.00,
+            25.00,
+            50.00,
+            100.00
+        ],
+        "fixedSenderDenominations": [
+            570.00,
+            2850.00,
+            3705.00,
+            5700.00,
+            7410.00,
+            8550.00,
+            11400.00,
+            14250.00,
+            28500.00,
+            57000.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "1.00": 570.00,
+            "5.00": 2850.00,
+            "6.50": 3705.00,
+            "10.00": 5700.00,
+            "13.00": 7410.00,
+            "15.00": 8550.00,
+            "20.00": 11400.00,
+            "25.00": 14250.00,
+            "50.00": 28500.00,
+            "100.00": 57000.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/cc7dc1cb-2a5a-4c25-8c6d-62eb15d9ff1d.jpg"
+        ],
+        "brand": {
+            "brandId": 46,
+            "brandName": "Obucks"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Load cash onto a local retailer gift card to use with the Openbucks payment option, Select &#39;Pay With Gift Cards&#39;, Enter you gift card number / PIN",
+            "verbose": "To Redeem: &#13;1. Load cash onto a local retailer gift card to use with the Openbucks payment option. &#13;2. Select the &#39;Pay With Gift Cards&#39; button on your games checkout page. &#13;3. Enter you gift card number / PIN to redeem your purchase when prompted."
+        }
+    },
+    {
+        "productId": 8433,
+        "productName": "Perfect World Entertainment",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 6.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            20.00
+        ],
+        "fixedSenderDenominations": [
+            11400.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "20.00": 11400.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c5e454c9-87d0-4ac8-afb5-00fc53982cec.jpg"
+        ],
+        "brand": {
+            "brandId": 50,
+            "brandName": "Perfect World Entertainment"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to https://billing.arcgames.com/en and log into your account",
+            "verbose": "1. Go to https://billing.arcgames.com/en and log into your account &#13;2. Choose the game and server into which you would like to deposit your currency &#13;3. Under &#39;Alternative Options&#39;, please select &#39;Prepaid Card&#39;, Enter in your PIN number and click &#39;Enter&#39; &#13;The Perfect WorldEntertainment (PWE) prepaid card may be redeemed at https://billing.arcgames.com/en by persons above the age of 13."
+        }
+    },
+    {
+        "productId": 8583,
+        "productName": "KingsIsle Pirate",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 7.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2.50,
+            5.00,
+            10.00,
+            20.00
+        ],
+        "fixedSenderDenominations": [
+            1425.00,
+            2850.00,
+            5700.00,
+            11400.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.50": 1425.00,
+            "5.00": 2850.00,
+            "10.00": 5700.00,
+            "20.00": 11400.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/f6c67a2c-db63-4377-a8bb-a03d1f610d34.jpg"
+        ],
+        "brand": {
+            "brandId": 51,
+            "brandName": "KingsIsle Pirate"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.pirate101.com/card",
+            "verbose": "1. Go to http://www.pirate101.com/card &#13;2. Login or create a new Pirate101 account &#13;3. Enter the PIN Code as directed &#13;4. Follow the on-screen instructions to play Pirate101. An internet connection is required to play, and some providers charge a fee for this access. This PIN Code may be redeemed to pay the transaction fees for playing Pirate101, or to buy in-game currency to be used in the Pirate101 world environment, but may not be used for your internet access fees. The PIN Code will be redeemed for the full face value and cannot carry a balance. The PIN Code is not redeemable for cash. Do not use the PIN Code until told to do so online. No refunds or exchanges will be given if the code has been used. All use of this PIN Code is subject to these terms and conditions, and any online terms and conditions at http://www.pirate101.com"
+        }
+    },
+    {
+        "productId": 8776,
+        "productName": "PUBG Mobile 60 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            0.99
+        ],
+        "fixedSenderDenominations": [
+            564.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "0.99": 564.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 8926,
+        "productName": "PUBG Mobile 300 + 25 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            4.99
+        ],
+        "fixedSenderDenominations": [
+            2844.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "4.99": 2844.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9076,
+        "productName": "PUBG Mobile 600 + 60 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            9.99
+        ],
+        "fixedSenderDenominations": [
+            5694.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "9.99": 5694.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9226,
+        "productName": "PUBG Mobile 1500 + 300 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            24.99
+        ],
+        "fixedSenderDenominations": [
+            14244.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "24.99": 14244.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9376,
+        "productName": "PUBG Mobile 3000 + 850  UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            49.99
+        ],
+        "fixedSenderDenominations": [
+            28494.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "49.99": 28494.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9526,
+        "productName": "PUBG Mobile 6000 + 2100 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            99.99
+        ],
+        "fixedSenderDenominations": [
+            56994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "99.99": 56994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9676,
+        "productName": "PUBG Mobile 12000+4200 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            199.99
+        ],
+        "fixedSenderDenominations": [
+            113994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "199.99": 113994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9826,
+        "productName": "PUBG Mobile 18000+6300 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            299.99
+        ],
+        "fixedSenderDenominations": [
+            170994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "299.99": 170994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9976,
+        "productName": "PUBG Mobile 24000+8400 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            399.99
+        ],
+        "fixedSenderDenominations": [
+            227994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "399.99": 227994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 10126,
+        "productName": "PUBG Mobile 30000 + 10500 UC",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            499.99
+        ],
+        "fixedSenderDenominations": [
+            284994.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "499.99": 284994.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 10278,
+        "productName": "Razer Gold Global",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 4.4,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5.00,
+            10.00,
+            20.00,
+            50.00,
+            100.00,
+            200.00,
+            250.00,
+            500.00
+        ],
+        "fixedSenderDenominations": [
+            2850.00,
+            5700.00,
+            11400.00,
+            28500.00,
+            57000.00,
+            114000.00,
+            142500.00,
+            285000.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.00": 2850.00,
+            "10.00": 5700.00,
+            "20.00": 11400.00,
+            "50.00": 28500.00,
+            "100.00": 57000.00,
+            "200.00": 114000.00,
+            "250.00": 142500.00,
+            "500.00": 285000.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c6043f75-f388-4d6a-a507-01f55461e972.jpg"
+        ],
+        "brand": {
+            "brandId": 56,
+            "brandName": "Razer Gold"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to https://gold.razer.com",
+            "verbose": "Reload your Razer Gold account to purchase games, digital content and services. &#13;Reload your Razer Gold account at https://gold.razer.com/ &#13;1. Go to https://gold.razer.com and login to your Razer Gold account &#13;2. Click on [Reload Now] and select Razer Gold Gift Card as your payment method &#13;Start spending your Razer Gold to earn Razer Silver Or Choose [Razer Gold] at supported games, digital content and services"
+        }
+    },
+    {
+        "productId": 10431,
+        "productName": "RIOT ACCESS MENA",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 3.75,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "EUR",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2.50,
+            5.00,
+            10.00,
+            20.00,
+            25.00,
+            35.00,
+            50.00,
+            100.00
+        ],
+        "fixedSenderDenominations": [
+            1618.13,
+            3236.25,
+            6472.50,
+            12945.00,
+            16181.25,
+            22653.75,
+            32362.50,
+            64725.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.50": 1618.13,
+            "5.00": 3236.25,
+            "10.00": 6472.50,
+            "20.00": 12945.00,
+            "25.00": 16181.25,
+            "35.00": 22653.75,
+            "50.00": 32362.50,
+            "100.00": 64725.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/94cf6555-5007-4a8e-baf0-b132210b1b7c.jpg"
+        ],
+        "brand": {
+            "brandId": 60,
+            "brandName": "RIOT ACCESS MENA"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Launch the League of Legends client or create an account. Click Store -> Purchase RP -> Prepaid Cards & Riot Pin and enter your code.",
+            "verbose": "1. Launch the League of Legends client or go to signup.na.leagueoflegends.com to create an account. &#13;2. Click on the Store button. &#13;3. Click on the Purchase RP button &#13;4. Select Prepaid Cards & Riot Pin and enter your code. &#13;5. Click Submit."
+        }
+    },
+    {
+        "productId": 11482,
+        "productName": "Roblox",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 6.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25.00
+        ],
+        "fixedSenderDenominations": [
+            14250.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.00": 14250.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/109888b4-02e3-4404-ab65-a8e689411ddb.jpg"
+        ],
+        "brand": {
+            "brandId": 63,
+            "brandName": "Roblox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go toRoblox.com/redeem",
+            "verbose": "1. Go toRoblox.com/redeem &#13;2. Log in or create an account &#13;3. Find your PIN and enter it on the website &#13;4. Spend your credit on Robux and more. &#13;This card may only be redeemed at http://www.roblox.com for Roblox credits, which may only be used to obtain certain products and services at http://www.roblox.com &#13;Availability and pricing of products and services is subject to change and age restrictions may apply. To redeem this card and use Roblox credits, you must have Internet access, register for a Roblox account, and accept the Roblox Terms of Use. No partial redemption is permitted. This card is not redeemable for cash or credit, except as and where required by law. "
+        }
+    },
+    {
+        "productId": 11520,
+        "productName": "Rosetta Stone: Learn Spanish (Latin America)",
+        "global": false,
+        "senderFee": 285.0,
+        "discountPercentage": 21.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            199.00
+        ],
+        "fixedSenderDenominations": [
+            113430.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "199.00": 113430.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/906d4bb6-aba5-4cf2-859e-6443f0c6386c.jpg"
+        ],
+        "brand": {
+            "brandId": 64,
+            "brandName": "Rosetta Stone"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to: https://www.rosettastone.com/product-activation",
+            "verbose": "Get Started To redeem your new language, go to: https://www.rosettastone.com/product-activation and choose one of any of our 24 languages"
+        }
+    },
+    {
+        "productId": 11633,
+        "productName": "Rosetta Stone: Learn A Language With Lifetime Access",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 21.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            199.00
+        ],
+        "fixedSenderDenominations": [
+            113430.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "199.00": 113430.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/32d48aca-be27-4482-add7-dbf69a8d42ce.jpeg"
+        ],
+        "brand": {
+            "brandId": 64,
+            "brandName": "Rosetta Stone"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to: https://www.rosettastone.com/product-activation",
+            "verbose": "Get Started To redeem your new language, go to: https://www.rosettastone.com/product-activation and choose one of any of our 24 languages"
+        }
+    },
+    {
+        "productId": 11788,
+        "productName": "Skype",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 3.75,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00,
+            25.00
+        ],
+        "fixedSenderDenominations": [
+            5700.00,
+            14250.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 5700.00,
+            "25.00": 14250.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/e41aeae3-cb3a-45b5-8513-6d7f526927f7.jpg"
+        ],
+        "brand": {
+            "brandId": 69,
+            "brandName": "Skype"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit https://www.skype.com/go/prepaidcardUS and follow instructions to redeem your code",
+            "verbose": "Visit https://www.skype.com/go/prepaidcardUS and follow instructions to redeem your code. &#13;Call prices are subject to change. See Skype rates page for current rates. Broadband and Skype account required. Code for Skype credit must be redeemed to a single Skype account. You must be 13+. Internet & mobile fees may apply. Terms can change without notice at any time. No cash redemption except as required by law."
+        }
+    },
+    {
+        "productId": 11951,
+        "productName": "Infinifactory",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 29.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            24.99
+        ],
+        "fixedSenderDenominations": [
+            14244.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "24.99": 14244.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/60ea8b3d-da61-4cb4-90ab-31793451e03a.jpg"
+        ],
+        "brand": {
+            "brandId": 75,
+            "brandName": "Infinifactory"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 12101,
+        "productName": "MOLEK-SYNTEZ",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 25.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            9.99
+        ],
+        "fixedSenderDenominations": [
+            5694.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "9.99": 5694.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/aad878ff-a02a-4b19-b961-5287c701199c.jpg"
+        ],
+        "brand": {
+            "brandId": 76,
+            "brandName": "MOLEK-SYNTEZ"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 12252,
+        "productName": "SHENZHEN I/O",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 27.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            14.99
+        ],
+        "fixedSenderDenominations": [
+            8544.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "14.99": 8544.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/4461729e-f63b-4b1e-9dd6-d448cdb67bdb.jpg"
+        ],
+        "brand": {
+            "brandId": 79,
+            "brandName": "SHENZHEN"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 12402,
+        "productName": "SHENZHEN SOLITAIRE",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 27.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2.99
+        ],
+        "fixedSenderDenominations": [
+            1704.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.99": 1704.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/eccd45f3-340f-4e48-8163-745adef895b8.jpg"
+        ],
+        "brand": {
+            "brandId": 79,
+            "brandName": "SHENZHEN"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 12552,
+        "productName": "TIS-100",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 29.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            6.99
+        ],
+        "fixedSenderDenominations": [
+            3984.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "6.99": 3984.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/fb8b5ab0-9e96-4828-9965-10b9590b0097.jpg"
+        ],
+        "brand": {
+            "brandId": 80,
+            "brandName": "TIS-100"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 12702,
+        "productName": "StubHub",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 1.2,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25.00,
+            50.00,
+            100.00,
+            500.00
+        ],
+        "fixedSenderDenominations": [
+            14250.00,
+            28500.00,
+            57000.00,
+            285000.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.00": 14250.00,
+            "50.00": 28500.00,
+            "100.00": 57000.00,
+            "500.00": 285000.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/455249b7-3df2-4468-bcf7-f9d78dc76690.jpg"
+        ],
+        "brand": {
+            "brandId": 81,
+            "brandName": "StubHub"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to https://www.stubhub.com/my/rewards",
+            "verbose": "1. Go to https://www.stubhub.com/my/rewards &#13;2. Sign in, or if you&#39;re new to StubHub, sign up for free &#13;3. Enter your StubHub gift card number in the &#39;Add a Fancode & gift code&#39; section &#13;4. Enter your StubHub gift card PIN in the PIN field when prompted &#13;5.Apply your StubHub balance during checkout on your next purchase &#13;Note: The amount of your gift card is applied to the full amount of your order, including all fees. That means if your order total is greater than the amount of your gift card, the remaining balance will be charged to your credit or debit card or PayPal account."
+        }
+    },
+    {
+        "productId": 12854,
+        "productName": "TQ Game Card",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            7.50,
+            18.75
+        ],
+        "fixedSenderDenominations": [
+            4275.00,
+            10687.50
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "7.50": 4275.00,
+            "18.75": 10687.50
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/57853a7a-3621-4fe2-8b7f-5027a50f9087.jpg"
+        ],
+        "brand": {
+            "brandId": 84,
+            "brandName": "TQ Game Card"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, Visit TQ Payment Center webpage.",
+            "verbose": "Visit TQ Payment Center webpage. &#13;Select a game, select a group, select a server. &#13;Type in the TQ Point Card ID & TQ Point Card Password &#13;Type in your game account ID, and click on &#39;Next&#39;. &#13;You have successfully redeemed TQ Point Card to your TQ Digital Entertainment Account."
+        }
+    },
+    {
+        "productId": 13005,
+        "productName": "twitch",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 2.45,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            15.00,
+            20.00,
+            25.00,
+            50.00,
+            100.00,
+            200.00
+        ],
+        "fixedSenderDenominations": [
+            8550.00,
+            11400.00,
+            14250.00,
+            28500.00,
+            57000.00,
+            114000.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "15.00": 8550.00,
+            "20.00": 11400.00,
+            "25.00": 14250.00,
+            "50.00": 28500.00,
+            "100.00": 57000.00,
+            "200.00": 114000.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c7ec6318-2613-4025-9c2f-0504201e2f90.jpg"
+        ],
+        "brand": {
+            "brandId": 86,
+            "brandName": "twitch"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, Visit twitch.tv/redeem and enter the gift code.",
+            "verbose": "Here&#39;s how to use it. &#13;You must have a valid Twitch account to use this card. To redeem: &#13;1. Visit twitch.tv/redeem &#13;2. Enter the gift code. For customer service, visit https://help.twitch.tv/s/?language=en_US"
+        }
+    },
+    {
+        "productId": 13158,
+        "productName": "PC World of Warcraft 60 days",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 17.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/6642b8a7-4385-42ec-bc9b-f2b6380549b3.jpg"
+        ],
+        "brand": {
+            "brandId": 89,
+            "brandName": "PC World of Warcraft 60 days"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to the Battle.net website, at your Account Overview go to &#39;Redeem a code&#39; and enter your code",
+            "verbose": "Go to the Battle.net website and log in to Blizzard &#13;At your Account Overview go to Redeem a code &#13;Enter your code here and click Redeem code &#13;That is all! Your code has now been added to your account. Have fun :)"
+        }
+    },
+    {
+        "productId": 13310,
+        "productName": "KingsIsle Wizard",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 7.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2.50,
+            5.00,
+            10.00,
+            20.00
+        ],
+        "fixedSenderDenominations": [
+            1425.00,
+            2850.00,
+            5700.00,
+            11400.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.50": 1425.00,
+            "5.00": 2850.00,
+            "10.00": 5700.00,
+            "20.00": 11400.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/8f585367-4ce3-40b5-8337-b7e80b1948f4.jpg"
+        ],
+        "brand": {
+            "brandId": 92,
+            "brandName": "KingsIsle Wizard"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.wizard101.com/card",
+            "verbose": "1. Go to http://www.wizard101.com/card &#13;2. Login or create a new Wizard101 account &#13;3. Enter the PIN Code as directed &#13;4. Follow the on-screen instructions to play Wizard101. &#13;This PIN Code may be redeemed to pay the transaction fees for playing Wizard101, or to buy in-game currency to be used in the Wizard101 world environment, but may not be used for your internet access fees. The PIN Code will be redeemed for the full face value and cannot carry a balance. The PIN Code is not redeemable for cash. Do not use the PIN Code until told to do so online. No refunds or exchanges will be given if the code has been used. All use of this PIN Code is subject to these terms and conditions, and any online terms and conditions at http://www.wizard101.com"
+        }
+    },
+    {
+        "productId": 13460,
+        "productName": "Xbox Game Pass 6 Month",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 6.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            59.99
+        ],
+        "fixedSenderDenominations": [
+            34194.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "59.99": 34194.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/72f60ba9-2554-4c08-995a-0198682d4d36.jpg"
+        ],
+        "brand": {
+            "brandId": 93,
+            "brandName": "Xbox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem at https://www.microsoft.com/redeem",
+            "verbose": "Redeem at https://www.microsoft.com/redeem &#13;To play on PC: after redeeming, follow instructions at https://www.xbox.com/pcgamesplan. &#13;Game titles and number vary overtime and by country. If your membership terminates or a game is removed, you must reactivate your membership or buy the game to continue using any add-ons or items purchased for a game. ISP fees and age restrictions apply. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 13610,
+        "productName": "Xbox Game Pass 3 Month",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 10.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            29.99
+        ],
+        "fixedSenderDenominations": [
+            17094.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "29.99": 17094.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/72f60ba9-2554-4c08-995a-0198682d4d36.jpg"
+        ],
+        "brand": {
+            "brandId": 93,
+            "brandName": "Xbox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem at https://www.microsoft.com/redeem",
+            "verbose": "Redeem at https://www.microsoft.com/redeem &#13;To play on PC: after redeeming, follow instructions at https://www.xbox.com/pcgamesplan. &#13;Game titles and number vary overtime and by country. If your membership terminates or a game is removed, you must reactivate your membership or buy the game to continue using any add-ons or items purchased for a game. ISP fees and age restrictions apply. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 13760,
+        "productName": "Xbox 1 Month Game Pass Ultimate",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 12.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            14.99
+        ],
+        "fixedSenderDenominations": [
+            8544.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "14.99": 8544.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/21a5c6bd-f752-46fd-8572-7b515fdbb71d.jpg"
+        ],
+        "brand": {
+            "brandId": 93,
+            "brandName": "Xbox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem at https://www.microsoft.com/redeem",
+            "verbose": "Redeem at https://www.microsoft.com/redeem &#13;To play on PC: after redeeming, follow instructions at https://www.xbox.com/pcgamesplan. &#13;Game titles and number vary overtime and by country. If your membership terminates or a game is removed, you must reactivate your membership or buy the game to continue using any add-ons or items purchased for a game. ISP fees and age restrictions apply. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 13910,
+        "productName": "Xbox 3 Month Game Pass Ultimate",
+        "global": true,
+        "senderFee": 285.0,
+        "discountPercentage": 14.0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            44.99
+        ],
+        "fixedSenderDenominations": [
+            25644.30
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "44.99": 25644.30
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/1fa39c62-0cf3-4b14-b1b8-72595cb3fcfa.jpg"
+        ],
+        "brand": {
+            "brandId": 93,
+            "brandName": "Xbox"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem at https://www.microsoft.com/redeem",
+            "verbose": "Redeem at https://www.microsoft.com/redeem &#13;To play on PC: after redeeming, follow instructions at https://www.xbox.com/pcgamesplan. &#13;Game titles and number vary overtime and by country. If your membership terminates or a game is removed, you must reactivate your membership or buy the game to continue using any add-ons or items purchased for a game. ISP fees and age restrictions apply. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 14272,
+        "productName": "NetDragon Universal",
+        "global": true,
+        "senderFee": 0.0,
+        "discountPercentage": 2.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10.00,
+            25.00
+        ],
+        "fixedSenderDenominations": [
+            5700.00,
+            14250.00
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.00": 5700.00,
+            "25.00": 14250.00
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/v23o9y238p9ubef-39f893hfi3ohf82gbufyeNetDragon.jpeg"
+        ],
+        "brand": {
+            "brandId": 143,
+            "brandName": "NetDragon Universal"
+        },
+        "country": {
+            "isoName": "ES",
+            "name": "Spain",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/es.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://credit.99.com",
+            "verbose": "This NetDragon Websoft (Hong Kong) Limited TQ Point prepaid card may be redeemed only in the USA and Canada on https://credit.99.com. Internet access (fees may apply), windows PC, and compatible software and hardware are Required. Use of this card signifies acceptance of the terms and conditions, any Rules of conduct, the Privacy Policy and any end-user license agreement applicable to our games and website (Available in full on https://account.99.com/common/read.htm), as they may be amended from time to time without notice. Prepaid cards are not redeemable for cash and cannot be returned for cash refund, exchange, or used to purchase gift certificates or provide allowances and are not for resale (except where required by law). The full value of the card is deducted at PIN redemption. No incremental deductions are allowed."
+        }
+    }
+]

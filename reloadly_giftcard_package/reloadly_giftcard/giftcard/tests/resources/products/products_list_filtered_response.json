@@ -1,0 +1,170 @@
+{
+    "content": [
+        {
+            "productId": 1,
+            "productName": "1-800-PetSupplies",
+            "global": false,
+            "senderFee": 285.0,
+            "discountPercentage": 7.5,
+            "denominationType": "FIXED",
+            "recipientCurrencyCode": "USD",
+            "minRecipientDenomination": null,
+            "maxRecipientDenomination": null,
+            "senderCurrencyCode": "NGN",
+            "minSenderDenomination": null,
+            "maxSenderDenomination": null,
+            "fixedRecipientDenominations": [
+                25.00,
+                50.00
+            ],
+            "fixedSenderDenominations": [
+                14250.00,
+                28500.00
+            ],
+            "fixedRecipientToSenderDenominationsMap": {
+                "25.00": 14250.00,
+                "50.00": 28500.00
+            },
+            "logoUrls": [
+                "https://cdn.reloadly.com/giftcards/5daa2b8b-b1ad-4ca6-a34d-a7ce3c14dfaf.jpg"
+            ],
+            "brand": {
+                "brandId": 1,
+                "brandName": "1-800-PetSupplies"
+            },
+            "country": {
+                "isoName": "US",
+                "name": "United States",
+                "flagUrl": "https://s3.amazonaws.com/rld-flags/us.svg"
+            },
+            "redeemInstruction": {
+                "concise": "This card is redeemable for merchandise on www.1-800-petsupplies.com",
+                "verbose": "Your acceptance of this eCertificate constitutes your agreement to these terms and conditions. This card is redeemable in U.S. only for merchandise on www.1-800-petsupplies.com . Only two eCertificates are redeemable per order. eCertificates cannot be redeemed for cash, except as required by law. Void if altered or reproduced. This gift card is issued in U.S. funds by Tabcom, LLC. When Redeeming online please be sure to enter the entire gift card number including preceding zeros. The maximum number of eCertificates that can be used for phone is nine. By accepting these Terms and Conditions through your use of this Site, you certify that you reside in the United States and are 18 years of age or older. If you are under the age of 18 but at least 14 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by these Terms and Conditions."
+            }
+        },
+        {
+            "productId": 2,
+            "productName": "Amazon UK",
+            "global": false,
+            "senderFee": 285.0,
+            "discountPercentage": 0.7,
+            "denominationType": "FIXED",
+            "recipientCurrencyCode": "GBP",
+            "minRecipientDenomination": null,
+            "maxRecipientDenomination": null,
+            "senderCurrencyCode": "NGN",
+            "minSenderDenomination": null,
+            "maxSenderDenomination": null,
+            "fixedRecipientDenominations": [
+                10.00,
+                20.00,
+                25.00,
+                50.00,
+                100.00
+            ],
+            "fixedSenderDenominations": [
+                7687.30,
+                15374.60,
+                19218.25,
+                38436.50,
+                76873.00
+            ],
+            "fixedRecipientToSenderDenominationsMap": {
+                "10.00": 7687.30,
+                "20.00": 15374.60,
+                "25.00": 19218.25,
+                "50.00": 38436.50,
+                "100.00": 76873.00
+            },
+            "logoUrls": [
+                "https://cdn.reloadly.com/giftcards/3a70931f-2823-4b2c-ab84-8e075134096d.jpg"
+            ],
+            "brand": {
+                "brandId": 2,
+                "brandName": "Amazon"
+            },
+            "country": {
+                "isoName": "GB",
+                "name": "United Kingdom",
+                "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+            },
+            "redeemInstruction": {
+                "concise": "Visit www.amazon.com/redeem and enter the Claim Code when prompted.",
+                "verbose": "Amazon.com Gift Cards never expire and can be redeemed towards millions of items at www.amazon.com &#13;To redeem your gift card, follow these steps: &#13;1. Visit www.amazon.com/redeem &#13;2. Enter the Claim Code when prompted. &#13;3. Gift card funds will be applied automatically to eligible orders during the checkout process. &#13;4. You must pay for any remaining balance on your order with another payment method. &#13;Your gift card claim code may also be entered when prompted during checkout. To redeem your gift card using the Amazon.com service, first add the gift card funds to Your Account. If you have questions about redeeming your gift card, please visit www.amazon.com/gc-redeem"
+            }
+        },
+        {
+            "productId": 3,
+            "productName": "Amazon France",
+            "global": false,
+            "senderFee": 285.0,
+            "discountPercentage": 0.0,
+            "denominationType": "FIXED",
+            "recipientCurrencyCode": "EUR",
+            "minRecipientDenomination": null,
+            "maxRecipientDenomination": null,
+            "senderCurrencyCode": "NGN",
+            "minSenderDenomination": null,
+            "maxSenderDenomination": null,
+            "fixedRecipientDenominations": [
+                10.00,
+                25.00,
+                50.00,
+                100.00
+            ],
+            "fixedSenderDenominations": [
+                6472.50,
+                16181.25,
+                32362.50,
+                64725.00
+            ],
+            "fixedRecipientToSenderDenominationsMap": {
+                "10.00": 6472.50,
+                "25.00": 16181.25,
+                "50.00": 32362.50,
+                "100.00": 64725.00
+            },
+            "logoUrls": [
+                "https://cdn.reloadly.com/giftcards/3a70931f-2823-4b2c-ab84-8e075134096d.jpg"
+            ],
+            "brand": {
+                "brandId": 2,
+                "brandName": "Amazon"
+            },
+            "country": {
+                "isoName": "FR",
+                "name": "France",
+                "flagUrl": "https://s3.amazonaws.com/rld-flags/fr.svg"
+            },
+            "redeemInstruction": {
+                "concise": "Visit www.amazon.com/redeem and enter the Claim Code when prompted.",
+                "verbose": "Amazon.com Gift Cards never expire and can be redeemed towards millions of items at www.amazon.com &#13;To redeem your gift card, follow these steps: &#13;1. Visit www.amazon.com/redeem &#13;2. Enter the Claim Code when prompted. &#13;3. Gift card funds will be applied automatically to eligible orders during the checkout process. &#13;4. You must pay for any remaining balance on your order with another payment method. &#13;Your gift card claim code may also be entered when prompted during checkout. To redeem your gift card using the Amazon.com service, first add the gift card funds to Your Account. If you have questions about redeeming your gift card, please visit www.amazon.com/gc-redeem"
+            }
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "pageNumber": 0,
+        "pageSize": 3,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 3,
+    "first": true,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "numberOfElements": 3,
+    "size": 3,
+    "number": 0,
+    "empty": false
+}

@@ -1,0 +1,56 @@
+{
+    "content": [
+        {
+            "product": {
+                "productId": 1,
+                "productName": "1-800-PetSupplies",
+                "countryCode": "US",
+                "global": false
+            },
+            "discountPercentage": 7.5
+        },
+        {
+            "product": {
+                "productId": 2,
+                "productName": "Amazon UK",
+                "countryCode": "GB",
+                "global": false
+            },
+            "discountPercentage": 0.7
+        },
+        {
+            "product": {
+                "productId": 3,
+                "productName": "Amazon France",
+                "countryCode": "FR",
+                "global": false
+            },
+            "discountPercentage": 0.0
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "pageNumber": 0,
+        "pageSize": 3,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": false,
+    "totalPages": 4470,
+    "totalElements": 13408,
+    "first": true,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "numberOfElements": 3,
+    "size": 3,
+    "number": 0,
+    "empty": false
+}

@@ -1,0 +1,24 @@
+{
+    "transactionId": 573,
+    "amount": 14535.00000,
+    "discount": 1068.75000,
+    "currencyCode": "NGN",
+    "fee": 285.00000,
+    "recipientEmail": "anyone@email.com",
+    "customIdentifier": "obucks10",
+    "status": "SUCCESSFUL",
+    "product": {
+        "productId": 1,
+        "productName": "1-800-PetSupplies",
+        "countryCode": "US",
+        "quantity": 1,
+        "unitPrice": 25,
+        "totalPrice": 25,
+        "currencyCode": "USD",
+        "brand": {
+            "brandId": 1,
+            "brandName": "1-800-PetSupplies"
+        }
+    },
+    "transactionCreatedTime": "2021-11-19 11:53:04"
+}

@@ -1,0 +1,9 @@
+{
+    "product": {
+        "productId": 10,
+        "productName": "App Store & iTunes Austria",
+        "countryCode": "AU",
+        "global": false
+    },
+    "discountPercentage": 2.9
+}

@@ -1,0 +1,111 @@
+version 2.1
+orbs:
+  python: circleci/python@1.5.0
+jobs:
+  airtime_build_test:
+    docker:
+      - image: circleci/python:3.6.4
+    working_directory: ~/reloadly-sdk-python/reloadly_airtime_package
+    steps:
+      - checkout:
+          path: ~/reloadly-sdk-python/
+      - run:
+          name: build airtime package and test
+          command: |
+            python3 setup.py sdist bdist_wheel
+            python3 -m venv staging
+            . staging/bin/activate
+            python3 -m pytest ~/reloadly-sdk-python/reloadly_airtime_package/reloadly_airtime/airtime/tests/
+  test_airtime_publish:
+    docker:
+      - image: circleci/python:3.6.4
+    working_directory: ~/reloadly-sdk-python/reloadly_airtime_package
+    steps:
+      - checkout:
+          path: ~/reloadly-sdk-python/
+      - run:
+          name: build airtime package and test deployment to PyPi
+          command: |
+            python3 setup.py sdist bdist_wheel
+            python3 -m venv staging
+            . staging/bin/activate
+            pip install twine
+            twine upload -r testpypi dist/*
+  airtime_publish:
+    docker:
+      - image: circleci/python:3.6.4
+    working_directory: ~/reloadly-sdk-python/reloadly_airtime_package
+    steps:
+      - checkout:
+          path: ~/reloadly-sdk-python/
+      - run:
+          name: build airtime package and deploy to PyPi
+          command: |
+            python3 setup.py sdist bdist_wheel
+            python3 -m venv staging
+            . staging/bin/activate
+            pip install twine
+            twine upload dist/*
+  giftcard_build_test:
+    docker:
+      - image: circleci/python:3.6.4
+    working_directory: ~/reloadly-sdk-python/reloadly_giftcard_package
+    steps:
+      - checkout:
+          path: ~/reloadly-sdk-python/
+      - run:
+          name: build airtime package and test
+          command: |
+            python3 setup.py sdist bdist_wheel
+            python3 -m venv staging
+            . staging/bin/activate
+            python3 -m pytest ~/reloadly-sdk-python/reloadly_giftcard_package/reloadly_giftcard/giftcard/tests/
+  test_giftcard_publish:
+    docker:
+      - image: circleci/python:3.6.4
+    working_directory: ~/reloadly-sdk-python/reloadly_giftcard_package
+    steps:
+      - checkout:
+          path: ~/reloadly-sdk-python/
+      - run:
+          name: build airtime package and test deployment to PyPi
+          command: |
+            python3 setup.py sdist bdist_wheel
+            python3 -m venv staging
+            . staging/bin/activate
+            pip install twine
+            twine upload -r testpypi dist/*
+  giftcard_publish:
+    docker:
+      - image: circleci/python:3.6.4
+    working_directory: ~/reloadly-sdk-python/reloadly_giftcard_package
+    steps:
+      - checkout:
+          path: ~/reloadly-sdk-python/
+      - run:
+          name: build airtime package and deploy to PyPi
+          command: |
+            python3 setup.py sdist bdist_wheel
+            python3 -m venv staging
+            . staging/bin/activate
+            pip install twine
+            twine upload dist/*
+workflows:
+  airtime_build_test_publish:
+    jobs:
+      - airtime_build_test
+      - test_airtime_publish:
+          requires:
+            - airtime_build_test
+      - airtime_publish:
+          requires:
+            - test_airtime_publish
+  giftcard_build_test_publish:
+    jobs:
+      - giftcard_build_test
+      - test_giftcard_publish:
+          requires:
+            - giftcard_build_test
+      - giftcard_publish:
+          requires:
+            - test_giftcard_publish
